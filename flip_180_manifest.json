@@ -1,8 +1,0 @@
-{
-  "plugin_id": "flip_180_github_loader",
-  "name": "Flip 180 Remote Payload",
-  "version": "1.4.0",
-  "payload_url": "https://raw.githubusercontent.com/qrrrv/Testt/main/flip_180_payload.py",
-  "sha256": "3d90bbcafdbc208d6c363dcd0fbb4572340facb97454424b132fab2a5ad0c5c7",
-  "notes": "Loader is already hardcoded to this manifest URL: https://raw.githubusercontent.com/qrrrv/Testt/main/flip_180_manifest.json"
-}
